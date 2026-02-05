@@ -1,0 +1,18 @@
+>>> ================================================
+>>>                 VEHICLE RENTAL SYSTEM
+>>> ================================================
+>>> 1. Add customer
+>>> 2. List customers
+>>> 3. Modify customer
+>>> 4. Add employee
+>>> 5. List employees
+>>> 6. Add vehicle
+>>> 7. List vehicles
+>>> 8. Add reservation
+>>> 9. List reservations
+>>> 10. Show customer reservations
+>>> 11. Cancel reservation
+>>> 12. Save data
+>>> 13. Exit
+>>> -----------------------------------------------
+>>> Select an option:
